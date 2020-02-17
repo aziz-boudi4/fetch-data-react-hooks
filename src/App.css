@@ -3,9 +3,16 @@
   background: #93A8AC
 }
 
+.Input {
+  height: 40px;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
 .List {
   list-style-type: none;
-  margin-bottom: 14px;  
+  margin-bottom: 14px;
 }
 
 .Link {

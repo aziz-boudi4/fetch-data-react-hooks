@@ -26,7 +26,7 @@ const SearchResults = () => {
 
   return (
     <div className="App">
-      <input value={query} onChange={e => setQuery(e.target.value)} />
+      <input className="Input" value={query} onChange={e => setQuery(e.target.value)} />
       <ul>
         {data.hits.map(item => (
           <li className="List" key={item.objectID}>
