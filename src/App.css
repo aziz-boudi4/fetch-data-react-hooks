@@ -25,3 +25,7 @@
   text-decoration: none;
   color: purple;
 }
+
+.Link:hover {
+  color: ivory;
+}
