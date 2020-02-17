@@ -1,6 +1,6 @@
 # Demo on CodePen: https://codepen.io/azizCode/full/povwQPG
 
-![Demo Tic Tac Toe Hooks](https://githubgif.s3-us-west-2.amazonaws.com/ezgif.com-video-to-gif+(2).gif)
+![Demo Tic Tac Toe Hooks](https://githubgif.s3-us-west-2.amazonaws.com/fetch-data.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
