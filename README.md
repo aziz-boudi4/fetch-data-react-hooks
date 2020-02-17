@@ -2,6 +2,8 @@
 
 ![Demo Tic Tac Toe Hooks](https://githubgif.s3-us-west-2.amazonaws.com/fetch-data.gif)
 
+### Fetch data using react hooks (useEffect, async-await, axios, algolia)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
